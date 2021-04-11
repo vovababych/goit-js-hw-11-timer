@@ -11,7 +11,7 @@ const refs = {
 
 const timer = new CountdownTimer({
   selector: '#timer-1',
-  targetDate: new Date('Jan 01, 2021'),
+  targetDate: new Date('Jan 01, 2022'),
 });
 
 timer.start();
